@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1748447425 source:c:\users\riccardo\desktop\progetto_stl\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<map>
+	<set>
+	<algorithm>
+
